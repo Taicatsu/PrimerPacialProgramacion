@@ -8,7 +8,7 @@ public class startBottom : MonoBehaviour
     public void Iniciarjuego()
       
     {
-        SceneManager.LoadScene("Ciudad");
+        SceneManager.LoadScene("lvl01");
     }
      public void Escape()
     {

@@ -13,7 +13,7 @@ public class backToMenu : MonoBehaviour
 
     public void Replay()
     {
-        SceneManager.LoadScene("Ciudad");
+        SceneManager.LoadScene("lvl01");
 
     }
 
