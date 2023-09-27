@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Ciudad.unity
-    guid: ab2b92c27a4170142ad2f29f84601965
-  - enabled: 1
     path: Assets/Scenes/Endgame.unity
     guid: 9f2355da80b939c4a91634b12c1470d7
   - enabled: 1

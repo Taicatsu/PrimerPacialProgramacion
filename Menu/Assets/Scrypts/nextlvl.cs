@@ -9,7 +9,7 @@ public class nextlvl : MonoBehaviour
     {
         if (other.gameObject.name == "FreeZombie")
         {
-            SceneManager.LoadScene(4);
+            SceneManager.LoadScene(3);
         }
     }
 }

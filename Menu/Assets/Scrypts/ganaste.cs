@@ -9,7 +9,7 @@ public class ganaste : MonoBehaviour
     {
         if (other.gameObject.name == "FreeZombie")
         {
-            SceneManager.LoadScene(3);
+            SceneManager.LoadScene(2);
         }
     }
 }

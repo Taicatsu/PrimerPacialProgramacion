@@ -9,7 +9,7 @@ public class endgame : MonoBehaviour
     {
         if (other.gameObject.name == "FreeZombie")
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(1);
         }
     }
 }
