@@ -15,6 +15,7 @@ public class tercerapersona : MonoBehaviour
 
     float turnsmoothvelocity;
 
+  
 
     void Start()
     {
@@ -36,6 +37,9 @@ public class tercerapersona : MonoBehaviour
 
             
         controller.Move(direction * speed * Time.deltaTime);
+
         }
+
+      
     }
 }

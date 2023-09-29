@@ -932,8 +932,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 7941475068067711130}
-  speed: 250
+  speed: 300
   turnSmoothTime: 0.1
+  particulas: {fileID: 0}
 --- !u!143 &7941475068067711130
 CharacterController:
   m_ObjectHideFlags: 0
